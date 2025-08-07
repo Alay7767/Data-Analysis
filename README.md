@@ -1,1 +1,3 @@
 # Data-Analysis
+
+This repository showcases a collection of data analytics projects where I’ve applied various machine learning techniques using Python. The work includes data preprocessing, feature mapping, model building, and evaluation using libraries like Scikit-learn. Key methods used in these projects include pipelines for streamlined processing, K-Fold Cross Validation for reliable model evaluation, and confusion matrices for performance analysis. I have implemented algorithms such as Naive Bayes, Decision Trees, and more to explore classification tasks. This project reflects my hands-on experience in building and validating data models with a strong focus on practical implementation and interpretation of results.
